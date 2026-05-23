@@ -14,34 +14,9 @@
 
 ---
 
-### ⚡ what i do
-
-- **node operations** — running & maintaining blockchain nodes, depin infra
-- **crypto automation** — bots, scripts, and tooling for web3 workflows
-- **security auditing** — source code review, bug hunting, responsible disclosure
-- **smart contract interaction** — swaps, bridging, defi protocols
-
-### 🔧 stack
+running blockchain nodes, building web3 automation, and hunting bugs in open source code.
 
 `solidity` · `typescript` · `python` · `go` · `bash` · `ethereum` · `solana` · `hyperliquid` · `base` · `foundry` · `docker` · `linux`
-
-### 📌 featured contributions
-
-| repo | what |
-|------|------|
-| [vibeship/spawner-ui](https://github.com/vibeforge1111/vibeship-spawner-ui) | auth hardening, unhandled rejection fixes, rate limiting — PRs [#70](https://github.com/vibeforge1111/vibeship-spawner-ui/pull/70) [#71](https://github.com/vibeforge1111/vibeship-spawner-ui/pull/71) [#72](https://github.com/vibeforge1111/vibeship-spawner-ui/pull/72) [#73](https://github.com/vibeforge1111/vibeship-spawner-ui/pull/73) |
-| [spark-cli](https://github.com/vibeforge1111/spark-cli) | security audit — 7 bugs found & fixed (TOCTOU, path traversal, shell injection, et al.) |
-| [zcash-depin-node](https://github.com/gieskuy5/zcash-depin-node) | lightwalletd setup & deployment |
-
-### 🗂️ projects
-
-- **prior-swap-bot** — automated token swap execution bot
-- **auto-send-token** — multi-chain token distribution tool
-- **bot-auto-referral-billions** — selenium-based referral automation (billions network)
-
-### 📫 reach me
-
-telegram: **@oxelchapo**
 
 ---
 
